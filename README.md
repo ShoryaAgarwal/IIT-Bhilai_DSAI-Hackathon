@@ -1,4 +1,4 @@
-# Project Title: BhilaiGPT: IIT Bhilai Query Resolver
+# BhilaiGPT: IIT Bhilai Query Resolver
 
 ## Objective
 The objective of this project is to create BhilaiGPT, a software system that resolves non-confidential queries related to IIT Bhilai by providing accurate and up-to-date information. The system will accept user queries in text or audio format and respond with the relevant information extracted from documents available on the IIT Bhilai website.
